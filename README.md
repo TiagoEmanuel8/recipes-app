@@ -1,6 +1,10 @@
 ### Termos de uso
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+Ao iniciar este projeto
+
+https://user-images.githubusercontent.com/72472530/139750699-0eeffc5a-68df-4ed9-a16b-06e1dc0d1217.mp4
+
+ocê concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
 
 ---
 
