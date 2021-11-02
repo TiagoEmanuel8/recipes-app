@@ -19,7 +19,7 @@ Entre os pricipais aprendizados do projeto, considero:
 
 ## O que é o App de Receitas?
 
-Uma aplicação de receitas e apesar do nome 'receitas', dando a entender que se restringe a comida, porém a aplicação também contém receitas de bebidas.
+Uma aplicação **Front end** de receitas e apesar do nome 'receitas', dando a entender que se restringe a comida, porém a aplicação também contém receitas de bebidas.
 
 As seguintes ações são possíveis com essa aplicação:
 
