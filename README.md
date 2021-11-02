@@ -53,7 +53,6 @@ Cada tela contém subrequisitos, caso queira conhecer é só clicar em cima dos 
 
 
 ---
-  - [Lista de requisitos](#lista-de-requisitos)
   <details>
     <summary>Testes unitários</summary>
 
